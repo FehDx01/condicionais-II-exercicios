@@ -1,6 +1,6 @@
 /* const descobrirNacionalidade = () =>{
 
-const nacionalidade = prompt("Digite aqui a nacionalidade").toLowerCase()
+const nacionalidade = prompt("Escreva aqui a nacionalidade").toLowerCase()
 
 switch (nacionalidade) {
     case "brasileira":
